@@ -6,9 +6,12 @@ This is the special `.github` repository for **Artic Maze** organization. This r
 
 ```
 .github/
-├── README.md                 # This file
-└── profile/
-    └── README.md            # Organization profile (displayed on GitHub)
+├── assets/
+│   ├── logo.png             # Organization logo
+│   └── ...                  # Other brand assets
+├── profile/
+│   └── README.md            # Organization profile (displayed on GitHub)
+└── README.md                # This file
 ```
 
 ## What's Inside
