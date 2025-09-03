@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Artic Maze Logo](https://github.com/your-organization/assets/blob/main/logo.png)
+![Artic Maze Logo](https://github.com/Artic-Maze/.github/blob/main/assets/icon-rounded.png)
 
 **Shopify Experts | Design • Development • Marketing**
 
